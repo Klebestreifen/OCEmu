@@ -12,7 +12,7 @@ This git repository contains submodules, please clone using `git clone --recursi
 
 ### Windows
 
-**Binaries**: [Windows 64bit](https://nightly.link/zenith391/OCEmu/workflows/build-win/master/OCEmu.zip)  
+**Binaries**: [Windows 64bit](https://github.com/Klebestreifen/OCEmu/releases)  
 
 The binaries above have everything pre compiled and packed up for ease of use.
 
